@@ -1,0 +1,5 @@
+app/core/service/credentials.json
+.venv/
+.vscode/
+output/
+.env
